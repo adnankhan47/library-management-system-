@@ -1,0 +1,26 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction",
+    "publishedDate": "1925-04-10",
+    "availableCopies": 5,
+    "totalCopies": 10
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Classic",
+    "publishedDate": "1960-07-11",
+    "availableCopies": 8,
+    "totalCopies": 12
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "publishedDate": "1949-06-08",
+    "availableCopies": 3,
+    "totalCopies": 5
+  }
+]
